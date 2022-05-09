@@ -1,0 +1,20 @@
+body {
+    width: 85%;
+    padding: 30px;
+}
+
+h1 {
+    color: rgba(0, 157, 13, 0.621);
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: rgba(34, 0, 157, 0.621);
+    background-color: bisque;
+}
+
+p,
+li {
+    font-family: Arial, Helvetica, sans-serif;
+}
